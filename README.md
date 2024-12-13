@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhermerschmidt&layout=donut)](https://github.com/hhermerschmidt/github-readme-stats)
+
 <!--
 **hhermerschmidt/hhermerschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
