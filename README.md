@@ -1,7 +1,6 @@
 ## Henning Hermerschmidt
 
-**Dr.-Ing. | Senior Software Engineer**
-
+**Dr.-Ing. | Senior Software Engineer**  
 *C++ Systems Architecture · Numerical Methods · Physics × AI*
 
 Senior software engineer specialising in high-performance scientific simulation software,
